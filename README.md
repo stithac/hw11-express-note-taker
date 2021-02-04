@@ -5,6 +5,8 @@
 ## Description
 This Application allows users to write and save notes so they can organize thoughts and keep track of tasks.   It uses an Express.js back end and saves/retrieves note data from a JSON file.  When launched, the application opens with a landing page that contains a link to a notes page.  The notes page is where all the magic happens.  Existing notes are listed on the left and empty fields to enter a new note title and text are included on the right.  Each existing note includes a delete button that allows the user to delete the record from the JSON file and the page (**BONUS**).  When a user clicks the title of an existing note, the title and text are displayed in the right-hand column.
 
+# Live Heroku App link: https://powerful-forest-39866.herokuapp.com/
+
 ## Dependencies
 The [Express package](https://expressjs.com/) is used to connect the server and create routes from the back-end to the front-end.
 
