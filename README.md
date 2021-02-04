@@ -20,11 +20,15 @@ node server.js
 # Notes page (Note: look and feel may be slightly updated since taking the screenshots)
 ![Notes page - Enter new note](./Assets/notes.PNG)
 
-*Note* The Save button is not displayed unless you enter a title or text into the right-hand column.
+*Note:* The Save button is not displayed unless you enter a title or text into the right-hand column.
 
 ![Notes page - View entry](./Assets/notes2.PNG)
 
-*Note* As you can see, the save button is included at the top-right.  This is because we are viewing an existing entry and the title and text are not blank.
+*Note:* The above shows the view after clicking an existing entry.
+
+![Notes page - New entry to submit](./Assets/notes3.PNG)
+
+*Note:* As you can see, the save button is included at the top-right.  This is because we creating an entry and the title and text are not blank.
 
 ## Installation
 * Create a `.gitignore` file and include `node_modules/` and `.DS_Store/`
